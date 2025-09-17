@@ -1,6 +1,6 @@
 # Hi there, I'm Christian 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christian-lm&show_icons=true)](https://github.com/christian-lm/github-readme-stats)
+[![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=christian-lm&show_icons=true)](https://github.com/christian-lm/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christian-lm&layout=compact)](https://github.com/christian-lm/github-readme-stats)
 
 I am a senior IT consultant, passionate about Java, the Spring ecosystem, microservices and the DevOps philosophy.
