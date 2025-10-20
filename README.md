@@ -1,6 +1,6 @@
 # Hi there, I'm Christian 👋
 
-Im a Senior Backend Software Engineer with 8+ years working with Java, Python, Go, Javascript and Typescript, delivering reliable, high-performance systems across cloud with AWS and on-prem with CI/CD specialized in orchestration, batch, data pipelines at scale and Python/Pandas batch reads. Previous impact at Amazon or Apple includes a financial decision service for all Amazon users in Spain and all Apple users in Germany, migration of 30 Java 5 to Java 8 apps, 10K+ police reports at ~99% success and legacy batches reduced from ~4 days to ~2 hours.
+Im a Senior Backend Software Engineer with 8+ years working with Java, Python, Go, Javascript and Typescript, delivering reliable, high-performance systems across cloud with AWS and on-prem with CI/CD specialized in orchestration, batch, data pipelines at scale and Python/Pandas batch reads. Previous impact at Amazon or Apple includes a financial decision service for all Amazon users in Spain and all Apple users in Germany, migration of 30 Java apps, 10K+ police reports at ~99% success and legacy batches reduced from ~4 days to ~2 hours.
 
 ## About me
 
